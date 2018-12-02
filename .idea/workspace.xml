@@ -2,24 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23ea8b6f-f514-494d-b38e-54ce20ac56ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/023_When.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/024_WhenExpression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/025_While.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/026_DoWhile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/027_Continue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/028_Break.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/029_Label.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/030_Function.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/031_ParameterAndArgument.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/032_UnitType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/033_DefaultArgument.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/034_VariableArgument.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/036_LocalAndGlobalVariable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/039_LocalFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/040_MemoryStack.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_constructor/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_exception_handling/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_in_operator/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_indexed_acces_operator/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_indexed_acces_operator/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_infix_notation/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_inheritance/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_invoke_operaotr/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_invoke_operaotr/Product.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_object/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_operator_overloading/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_operator_overloading/Point.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_overriding_property/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_property_getter_setter/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_property_getter_setter/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_property_in_constructor/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_safe_call_operator/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_secondary_constructor/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_triple_equals/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_022_IfExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/_022_IfExpressionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_001_HelloKotilnKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_002_ExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_003_VariableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_004_LiteralDataTypeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_005_ArithmeticOperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_006_IncrementAndDecrementOperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_007_BitwiseOperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_008_IntegerAndRealDataTypeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_009_TrapOfRealNumberKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_010_CharTypeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_011_StringTypeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_012_ExpressionIntoStringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_013_TypeAliasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_014_CommentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_015_AssignmentOperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_016_StatementKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_022_IfExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_023_WhenKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_024_WhenExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_029_LabelKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_030_FunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_031_ParameterAndArgumentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_032_UnitTypeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_033_DefaultArgumentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_034_VariableArgumentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_039_LocalFunctionKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinPractice/_039_LocalFunctionKt.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,87 +61,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/029_Label.kt">
+        <entry file="file://$PROJECT_DIR$/src/ex_indexed_acces_operator/Person.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/030_Function.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/031_ParameterAndArgument.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/032_UnitType.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/033_DefaultArgument.kt">
+        <entry file="file://$PROJECT_DIR$/src/ex_indexed_acces_operator/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/034_VariableArgument.kt">
+        <entry file="file://$PROJECT_DIR$/src/ex_invoke_operaotr/Product.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/io/Console.kt">
+        <entry file="file://$PROJECT_DIR$/src/ex_invoke_operaotr/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+            <state relative-caret-position="60">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/036_LocalAndGlobalVariable.kt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/ex_in_operator/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/039_LocalFunction.kt">
+        <entry file="file://$PROJECT_DIR$/src/ex_infix_notation/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="165">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex_inheritance/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex_overriding_property/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex_exception_handling/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/040_MemoryStack.kt">
+        <entry file="file://$PROJECT_DIR$/src/ex_safe_call_operator/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="195">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -121,6 +155,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -158,6 +193,26 @@
         <option value="$PROJECT_DIR$/src/034_VariableArgument.kt" />
         <option value="$PROJECT_DIR$/src/039_LocalFunction.kt" />
         <option value="$PROJECT_DIR$/src/040_MemoryStack.kt" />
+        <option value="$PROJECT_DIR$/src/ex_starter/040_MemoryStack.kt" />
+        <option value="$PROJECT_DIR$/src/ex_object/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_triple_equals/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_constructor/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_property_in_constructor/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_secondary_constructor/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_property_getter_setter/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_property_getter_setter/Person.kt" />
+        <option value="$PROJECT_DIR$/src/ex_operator_overloading/Point.kt" />
+        <option value="$PROJECT_DIR$/src/ex_operator_overloading/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_indexed_acces_operator/Person.kt" />
+        <option value="$PROJECT_DIR$/src/ex_indexed_acces_operator/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_invoke_operaotr/Product.kt" />
+        <option value="$PROJECT_DIR$/src/ex_invoke_operaotr/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_in_operator/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_infix_notation/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_inheritance/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_overriding_property/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_exception_handling/Main.kt" />
+        <option value="$PROJECT_DIR$/src/ex_safe_call_operator/Main.kt" />
       </list>
     </option>
   </component>
@@ -196,11 +251,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543584615416" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543758964896" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_starter" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -214,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ex_starter._039_LocalFunctionKt">
+  <component name="RunManager" selected="Kotlin.ex_safe_call_operator.MainKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -233,66 +293,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_starter._030_FunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_exception_handling.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ex_starter._030_FunctionKt" />
+      <option name="MAIN_CLASS_NAME" value="ex_exception_handling.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_starter._031_ParameterAndArgumentKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_infix_notation.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ex_starter._031_ParameterAndArgumentKt" />
+      <option name="MAIN_CLASS_NAME" value="ex_infix_notation.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_starter._033_DefaultArgumentKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_inheritance.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ex_starter._033_DefaultArgumentKt" />
+      <option name="MAIN_CLASS_NAME" value="ex_inheritance.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_starter._034_VariableArgumentKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_overriding_property.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ex_starter._034_VariableArgumentKt" />
+      <option name="MAIN_CLASS_NAME" value="ex_overriding_property.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_starter._039_LocalFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ex_safe_call_operator.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ex_starter._039_LocalFunctionKt" />
+      <option name="MAIN_CLASS_NAME" value="ex_safe_call_operator.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -317,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ex_starter._039_LocalFunctionKt" />
-        <item itemvalue="Kotlin.ex_starter._034_VariableArgumentKt" />
-        <item itemvalue="Kotlin.ex_starter._033_DefaultArgumentKt" />
-        <item itemvalue="Kotlin.ex_starter._031_ParameterAndArgumentKt" />
-        <item itemvalue="Kotlin.ex_starter._030_FunctionKt" />
+        <item itemvalue="Kotlin.ex_safe_call_operator.MainKt" />
+        <item itemvalue="Kotlin.ex_exception_handling.MainKt" />
+        <item itemvalue="Kotlin.ex_overriding_property.MainKt" />
+        <item itemvalue="Kotlin.ex_inheritance.MainKt" />
+        <item itemvalue="Kotlin.ex_infix_notation.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -339,17 +399,18 @@
       <workItem from="1543409753555" duration="596000" />
       <workItem from="1543410376356" duration="57000" />
       <workItem from="1543410455071" duration="350000" />
-      <workItem from="1543411394401" duration="9311000" />
+      <workItem from="1543411394401" duration="18629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10817000" />
+    <option name="totallyTimeSpent" value="20135000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22103004" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16453674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,7 +419,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31445783" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25841585" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,7 +429,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.40120482" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32871288" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -384,77 +446,21 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/001_HelloKotiln.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/002_Expression.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/003_Variable.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/004_LiteralDataType.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/005_ArithmeticOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/006_IncrementAndDecrementOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/007_BitwiseOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/008_IntegerAndRealDataType.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/009_TrapOfRealNumber.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/009_TrapOfRealNumber.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/010_CharType.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/010_CharType.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/011_StringType.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/011_StringType.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
@@ -468,128 +474,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/012_ExpressionIntoString.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/012_ExpressionIntoString.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/013_TypeAlias.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/013_TypeAlias.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/014_Comment.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/014_Comment.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/015_AssignmentOperator.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/015_AssignmentOperator.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/016_Statement.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/016_Statement.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/017_ComparisonOperator.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/017_ComparisonOperator.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/018_LogicalOperator.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/018_LogicalOperator.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/019_if.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/019_if.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/020_IfElse.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/020_IfElse.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/021_NestedIfElse.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/021_NestedIfElse.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/022_IfExpression.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/022_IfExpression.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/023_When.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/023_When.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/024_WhenExpression.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/024_WhenExpression.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/025_While.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/025_While.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/026_DoWhile.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/026_DoWhile.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/027_Continue.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/027_Continue.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/028_Break.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/028_Break.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/029_Label.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/029_Label.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/030_Function.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/030_Function.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/031_ParameterAndArgument.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/031_ParameterAndArgument.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/032_UnitType.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/032_UnitType.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/033_DefaultArgument.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/033_DefaultArgument.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/034_VariableArgument.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/034_VariableArgument.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -600,20 +606,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/036_LocalAndGlobalVariable.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/036_LocalAndGlobalVariable.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/039_LocalFunction.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/039_LocalFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/040_MemoryStack.kt">
+    <entry file="file://$PROJECT_DIR$/src/ex_starter/040_MemoryStack.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_triple_equals.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_object/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_triple_equals/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_constructor/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_property_in_constructor/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_secondary_constructor/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_property_getter_setter/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_property_getter_setter/Person.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_operator_overloading/Point.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_operator_overloading/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_indexed_acces_operator/Person.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_indexed_acces_operator/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_invoke_operaotr/Product.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_invoke_operaotr/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_in_operator/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_infix_notation/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_inheritance/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_overriding_property/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_exception_handling/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex_safe_call_operator/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
         </state>
       </provider>
     </entry>
